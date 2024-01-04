@@ -1,7 +1,7 @@
 ---
 title: "Magnalium: Highly Reliable SDC Networks with Multiple Control Plane Composition"
 collection: publications
-permalink: /publication/distVerification
+permalink: /publication/2019-01-01-distVerification
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 2010-10-01
 #venue: 'Journal 1'

@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning Architecture for Network-Efficiency at the Edge"
 collection: publications
-permalink: /publication/splitlearnprune
+permalink: /publication/2024-01-01-splitlearnprune
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 
 venue: 'Journal 1'

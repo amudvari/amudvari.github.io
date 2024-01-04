@@ -1,7 +1,7 @@
 ---
 title: "ML-driven scaling of 5G Cloud-Native RANs"
 collection: publications
-permalink: /publication/mlscaling
+permalink: /publication/2021-01-01-mlscaling
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 2010-10-01
 #venue: 'Journal 1'
