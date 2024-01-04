@@ -4,4 +4,4 @@ title: "Releted Course Works:"
 collection: education
 ---
 
-Focus on the intersection of machine learning and next generation network sytems (i.e., 5G and beyond, SDN).
+Courses include
