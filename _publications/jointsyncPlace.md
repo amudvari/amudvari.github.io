@@ -6,7 +6,7 @@ permalink: /publication/jointsyncplace
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'amudvari.github.io/files/paper2.pdf'
-citation: 'A. Mudvari, A. Vainio, I. Ofeidis, S. Tarkoma, L. Tassiulas, "Joint SDN Synchronization and Controller Placement in Wireless Networks using Deep Reinforcement Learning", arXiv preprint arXiv:2311.05739 (2023), IEEE/IFIP Network Operations and Management Symposium (NOMS), 2024, to appear
+citation: 'A. Mudvari, A. Vainio, I. Ofeidis, S. Tarkoma, L. Tassiulas, "Joint SDN Synchronization and Controller Placement in Wireless Networks using Deep Reinforcement Learning", arXiv preprint arXiv:2311.05739 (2023), IEEE/IFIP Network Operations and Management Symposium (NOMS), 2024, to appear'
 ---
 
 
