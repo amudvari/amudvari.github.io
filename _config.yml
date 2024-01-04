@@ -182,7 +182,7 @@ collections:
   experiences:
     output: true
     permalink: /:collection/:path/
-  pulbications:
+  publications:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -192,10 +192,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _education
   - scope:
       path: ""
-      type: posts
+      type: education
     values:
       layout: single
       author_profile: true
