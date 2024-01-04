@@ -4,4 +4,26 @@ title: "Releted Course Works:"
 collection: education
 ---
 
-Courses include
+Related Graduate Courses Include:
+
+Building a Router
+Topics in Networked Systems
+Internet Engineering
+Deep Learning Theory and Applications
+Network and Stochastic Optimziation
+Optimization Techniques
+Stochastic Process
+Linear Systems
+
+Related Undergraduate Courses Include: 
+
+Analog and Digital Communications 
+Digital Circuits and Systems
+Signal Processing and Applications 
+Autmatic Control Systems 
+Microprocessor Systems 
+
+<!-- Related Courses Online:
+
+Database Management
+Data Structures and Algorithms  -->
