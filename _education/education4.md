@@ -6,22 +6,22 @@ collection: education
 
 Please link on the linked title for the list.
 
-Building a Router <br/>
-Topics in Networked Systems  <br/>
-Internet Engineering  <br/>
-Deep Learning Theory and Applications  <br/>
-Network and Stochastic Optimziation  <br/>
-Optimization Techniques  <br/>
-Stochastic Process  <br/>
-Linear Systems  <br/>
+* Building a Router 
+* Topics in Networked Systems  
+* Internet Engineering  
+* Deep Learning Theory and Applications  
+* Network and Stochastic Optimziation  
+* Optimization Techniques 
+* Stochastic Process  
+* Linear Systems 
 
 Related Undergraduate Courses Include: 
 
-Analog and Digital Communications  <br/> 
-Digital Circuits and Systems  <br/>
-Signal Processing and Applications   <br/>
-Autmatic Control Systems  <br/>
-Microprocessor Systems  <br/>
+* Analog and Digital Communications  
+* Digital Circuits and Systems 
+* Signal Processing and Applications   
+* Autmatic Control Systems  
+* Microprocessor Systems  
 
 <!-- Related Courses Online:
 
