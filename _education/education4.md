@@ -1,27 +1,27 @@
 ---
-title: "Releted Course Works:"
+title: "Releted Course Works"
 #excerpt: "School of Engineering and Applied Science, Explected Completion in Summer, 2024" #"Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: education
 ---
 
-Related Graduate Courses Include:
+Please link on the linked title for the list.
 
-Building a Router
-Topics in Networked Systems
-Internet Engineering
-Deep Learning Theory and Applications
-Network and Stochastic Optimziation
-Optimization Techniques
-Stochastic Process
-Linear Systems
+Building a Router <br/>
+Topics in Networked Systems  <br/>
+Internet Engineering  <br/>
+Deep Learning Theory and Applications  <br/>
+Network and Stochastic Optimziation  <br/>
+Optimization Techniques  <br/>
+Stochastic Process  <br/>
+Linear Systems  <br/>
 
 Related Undergraduate Courses Include: 
 
-Analog and Digital Communications 
-Digital Circuits and Systems
-Signal Processing and Applications 
-Autmatic Control Systems 
-Microprocessor Systems 
+Analog and Digital Communications  <br/> 
+Digital Circuits and Systems  <br/>
+Signal Processing and Applications   <br/>
+Autmatic Control Systems  <br/>
+Microprocessor Systems  <br/>
 
 <!-- Related Courses Online:
 
