@@ -8,8 +8,3 @@ permalink: /publication/2021-01-01-mlscaling
 paperurl: 'amudvari.github.io/files/ML-driven_scaling_of_5G_Cloud-Native_RANs.pdf'
 citation: 'A. Mudvari, N. Makris, L. Tassiulas, " ML-driven scaling of 5G Cloud-Native RANs," IEEE Global Communications Conference (GLOBECOM), 2021'
 ---
-
-
-[Download paper here](amudvari.github.io/files/ML-driven_scaling_of_5G_Cloud-Native_RANs.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

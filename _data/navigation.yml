@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Experience"
-    url: /publications/
+  - title: "Education"
+    url: /Experiences/
 
-  - title: "Projects"
+  - title: "Experiences"
     url: /talks/    
 
   - title: "Publications"
-    url: /teaching/    
+    url: /publications/    
     
   - title: "Awards and Memberships"
     url: /portfolio/

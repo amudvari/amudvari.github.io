@@ -9,7 +9,3 @@ paperurl: 'amudvari.github.io/files/Exploring_ML_methods_for_Dynamic_Scaling_of_
 citation: 'A. Mudvari, N. Makris, L. Tassiulas, " Exploring ML methods for Dynamic Scaling of beyond 5G Cloud-Native RANs," IEEE International Conference on Communications (ICC), 2022'
 ---
 
-
-[Download paper here](amudvari.github.io/files/Exploring_ML_methods_for_Dynamic_Scaling_of_beyond_5G_Cloud-Native_RANs.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

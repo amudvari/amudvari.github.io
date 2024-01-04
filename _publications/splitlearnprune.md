@@ -10,6 +10,3 @@ citation: 'A. Mudvari, A. Vainio, I. Ofeidis, S. Tarkoma, L. Tassiulas, " Deep L
 ---
 
 
-[Download paper here](amudvari.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

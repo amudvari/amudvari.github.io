@@ -10,6 +10,4 @@ citation: 'A. Mudvari, K. Poularakis, L. Tassiulas, “Robust SDN Synchronizatio
 ---
 
 
-[Download paper here](amudvari.github.io/files/Robust_SDN_Synchronization_in_Mobile_Networks_Using_Deep_Reinforcement_and_Transfer_Learning.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
