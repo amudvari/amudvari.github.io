@@ -1,6 +1,6 @@
 ---
 title: "Yale University, Smart Networks Lab"
-excerpt: "Researcher, PhD student"
+excerpt: "Researcher, PhD student, September 2018 - Present"
 collection: experience
 ---
 
