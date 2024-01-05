@@ -1,7 +1,7 @@
 ---
 title: "Yale University, Smart Networks Lab"
 excerpt: "Research as a PhD student"
-collection: experiences
+collection: experience
 ---
 
 - bf Projects:
