@@ -179,7 +179,7 @@ collections:
   education:
     output: true
     permalink: /:collection/:path/
-  experiences:
+  experience:
     output: true
     permalink: /:collection/:path/
   publications:
