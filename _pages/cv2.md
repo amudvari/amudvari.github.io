@@ -13,11 +13,11 @@ Selected Skills
 ======
 
 
-Computer Languages:  C/C++, Python, Matlab, Golang, SQL  
+**Computer Languages:**  C/C++, Python, Matlab, Golang, SQL  
 
-Frameworks, tools \& more:  Tensorflow, PyTorch, OpenFlow, P4, Hyperledger Fabric,
-  Mininet, Kubernetes, docker, Open Air Interface
+**Frameworks, tools and more:**  Tensorflow, PyTorch, OpenFlow, P4, Hyperledger Fabric,
+      Mininet, Kubernetes, docker, Open Air Interface
 
-Microcontroller experience: Raspberry Pi, Arduino, 8051 microcontroller 
+**Microcontroller experience:** Raspberry Pi, Arduino, 8051 microcontroller 
 
 
