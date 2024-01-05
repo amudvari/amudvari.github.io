@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Introduction"
 title_separator          : "-"
 name                     : &name "Akrit Mudvari"
 description              : &description "personal description"
@@ -200,9 +200,20 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
+  # _experience
+  - scope:
+      path: ""
+      type: experience
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
   # _pages
   - scope:
       path: ""
