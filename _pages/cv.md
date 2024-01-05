@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards and Memberships"
+title: "Awards and more"
 permalink: /cv/
 author_profile: true
 redirect_from:
