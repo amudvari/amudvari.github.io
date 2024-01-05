@@ -4,13 +4,13 @@ main:
     url: /education/
 
   - title: "Experiences"
-    url: /experiences/    
+    url: /experience/    
 
   - title: "Publications"
     url: /publications/    
     
   - title: "Awards and Memberships"
-    url: /portfolio/
+    url: /cv/
     
   - title: "Guide"
     url: /markdown/
