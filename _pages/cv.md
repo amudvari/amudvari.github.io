@@ -33,7 +33,7 @@ Awards
 Memberships
 ======
 
-* Phi Beta Kappa (academic honor society)
+* Phi Beta Kappa (academic honor society).
 
 * Sigma Pi Sigma (physics honor society).
 
@@ -43,11 +43,11 @@ Teaching and Leadership
 
 * Teaching Fellow: Internet Engineering. 
 
-* Teaching Assistant: Introduction to Engineering
+* Teaching Assistant: Introduction to Engineering.
 
-* Electricity and Magnetism.
+* Teaching Assistant: Electricity and Magnetism.
 
-* President, Society of Physics Students at Trinity College
+* President, Society of Physics Students at Trinity College.
 
-* Vice President, IEEE Trinity College Chapter
+* Vice President, IEEE Trinity College Chapter.
 
