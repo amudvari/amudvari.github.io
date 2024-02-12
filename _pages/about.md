@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Welcome to my website! 
 
 My name is Akrit Mudvari, and I am currently pursuing a PhD at Yale, with a focus on the intersection of machine learning methods and next generation networked systems. I am broadly interested in exploring how different deep learning methods, including supervised and reinforcement learning approaches, could be leveraged to optimize the efficiency of the communication networks of the near future. And I am also interested in how such communication infrastructures can be harnessed to realize efficient deployment of deep learning architectures (for learning and inference tasks). 
