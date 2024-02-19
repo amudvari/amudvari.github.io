@@ -30,7 +30,7 @@ Awards
 * Mary A. Terry Fellowship, awarded for pursuing graduate studies.
 
 
-Memberships
+Selective Memberships
 ======
 
 * Phi Beta Kappa (academic honor society).
