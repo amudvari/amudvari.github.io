@@ -21,4 +21,4 @@ For further details on my efforts and accomplishments, please explore my website
 Recent Updates
 ======
 
-I am planning on graduating this summer, so I am looking forward to (and actively searching for) the next chapter in my career! 
+I am planning on graduating this summer/fall, so I am looking forward to (and actively searching for) the next chapter in my career! 
