@@ -6,7 +6,7 @@ permalink: /publication/2016-10-01-ultrafastelectron
 #date: 2010-10-01
 #venue: 'Journal 1'
 paperurl: 'Compiler_for_Distributed_Quantum_Computing_a_Reinforcement_Learning_Approach.pdf'
-citation: 'P. Promponas, A. Mudvari (co-first author), L. D. Chiesa, P. Polakos, L. Samuel, L. Tassiulas, “Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach” arXiv preprint arXiv:2404.17077, submission to IEEE International Conference on Quantum Computing and Engineering (QCE 2024)'
+citation: '(co-first author) P. Promponas, A. Mudvari, L. D. Chiesa, P. Polakos, L. Samuel, L. Tassiulas, “Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach” arXiv preprint arXiv:2404.17077, submission to IEEE International Conference on Quantum Computing and Engineering (QCE 2024)'
 ---
 
 
