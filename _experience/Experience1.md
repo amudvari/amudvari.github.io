@@ -10,6 +10,8 @@ collection: experience
 
     * Current: Pruning-based adaptive compression-aware split learning and inference for improved network efficiency 
 
+    * Current: Deep reinforcement learning for distributed quantum computing 
+
     * Previous: Robust (to network configuration changes) SDN synchronization using DRL and transfer learning. Joint synchronization  and placement using DRL
 
     * Previous: Exploration of ML-driven methods (neural network and tree-based approaches) for Auto-scaling Virtual Network functions in cloud native RAN for 5G and beyond networks. 
