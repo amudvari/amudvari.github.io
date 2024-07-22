@@ -12,7 +12,7 @@ Selected Skills
 ======
 
 
-**Computer Languages:**  C/C++, Python, Matlab, Golang, SQL  
+**Computer Languages:**   Python, C/C++, Matlab, Golang, SQL  
 
 **Frameworks, tools and more:**  Tensorflow, PyTorch, OpenFlow, P4, Hyperledger Fabric,
       Mininet, Kubernetes, docker, Open Air Interface
