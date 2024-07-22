@@ -2,7 +2,7 @@
 title: "Yale University, Smart Networks Lab"
 excerpt: "Researcher, PhD student, September 2018 - Present"
 collection: experience
-
+---
 
 * Projects:
 
@@ -21,5 +21,3 @@ collection: experience
     * Previous: Implementation of blockchain as an enabler for decentralized digital ecosystems
 
     * Previous: Integration of distributed protocols and SDN to improve performance and verification in wireless networks
-
----
