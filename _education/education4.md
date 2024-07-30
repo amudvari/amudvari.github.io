@@ -4,8 +4,6 @@ title: "Releted Course Works"
 collection: education
 ---
 
-Please link on the linked title for the list.
-
 * Building a Router 
 * Topics in Networked Systems  
 * Internet Engineering  
@@ -14,6 +12,7 @@ Please link on the linked title for the list.
 * Optimization Techniques 
 * Stochastic Process  
 * Linear Systems 
+* Programmable Networks
 
 Related Undergraduate Courses Include: 
 
