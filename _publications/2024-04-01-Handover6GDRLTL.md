@@ -1,7 +1,7 @@
 ---
 title: "Predictive Handover Strategy in 6G and Beyond: A Deep and Transfer Learning Approach"
 collection: publications
-permalink: /publication/2016-10-01-ultrafastelectron
+permalink: /publications/2016-10-01-ultrafastelectron
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 2010-10-01
 #venue: 'Journal 1'

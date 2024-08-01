@@ -1,7 +1,7 @@
 ---
 title: "Brownian Motion of Radioactive Particles: Derivation and Monte Carlo Test of Spatial and Temporal Distributions"
 collection: publications
-permalink: /publication/2018-01-02-brown_motion
+permalink: /publications/2018-01-02-brown_motion
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 2010-10-01
 #venue: 'Journal 1'

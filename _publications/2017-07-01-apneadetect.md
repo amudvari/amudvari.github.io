@@ -1,7 +1,7 @@
 ---
 title: "Respiration estimation and apnea detection using fuzzy logic"
 collection: publications
-permalink: /publication/2017-07-01-apneadetect
+permalink: /publications/2017-07-01-apneadetect
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 2010-10-01
 #venue: 'Journal 1'

@@ -1,7 +1,7 @@
 ---
 title: "Heart Murmurs Clustering Using Machine Learning"
 collection: publications
-permalink: /publication/2018-01-01-heartclustering
+permalink: /publications/2018-01-01-heartclustering
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 2010-10-01
 #venue: 'Journal 1'

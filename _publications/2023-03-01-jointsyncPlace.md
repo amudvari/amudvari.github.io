@@ -1,7 +1,7 @@
 ---
 title: "Joint SDN Synchronization and Controller Placement in Wireless Networks using Deep Reinforcement Learning"
 collection: publications
-permalink: /publication/2023-03-01-jointsyncplace
+permalink: /publications/2023-03-01-jointsyncplace
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 2010-10-01
 #venue: 'Journal 1'

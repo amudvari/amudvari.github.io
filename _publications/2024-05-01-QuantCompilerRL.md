@@ -1,7 +1,7 @@
 ---
 title: "Compiler for Distributed Quantum Computing: a Reinforcement Learning Approach"
 collection: publications
-permalink: /publication/2016-10-01-ultrafastelectron
+permalink: /publications/2016-10-01-ultrafastelectron
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 2010-10-01
 #venue: 'Journal 1'

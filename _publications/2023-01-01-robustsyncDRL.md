@@ -1,7 +1,7 @@
 ---
 title: "Robust SDN Synchronization in Mobile Networks using Deep Reinforcement and Transfer Learning"
 collection: publications
-permalink: /publication/2023-01-01-robustSync
+permalink: /publications/2023-01-01-robustSync
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 2010-10-01
 #venue: 'Journal 1'

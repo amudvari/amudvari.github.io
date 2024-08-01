@@ -1,7 +1,7 @@
 ---
 title: "Exploring ML methods for Dynamic Scaling of beyond 5G Cloud-Native RANs"
 collection: publications
-permalink: /publication/2022-01-01-Exploremlscaling
+permalink: /publications/2022-01-01-Exploremlscaling
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 2010-10-01
 #venue: 'Journal 1'
