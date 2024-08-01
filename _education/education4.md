@@ -4,7 +4,7 @@ title: "Releted Course Works"
 collection: education
 ---
 
-...
+Please click on the links for further Information.
 
 * Building a Router 
 * Topics in Networked Systems  
