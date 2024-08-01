@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Compression-Aware Split Learning and Inference for Enhanced Network Efficiency"
 collection: publications
-permalink: /publication/splitlearnprune
+permalink: /publications/splitlearnprune
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 #date: 
 #venue: 'Journal 1'
