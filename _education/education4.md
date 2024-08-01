@@ -4,9 +4,7 @@ title: "Releted Course Works"
 collection: education
 ---
 
-Please click on the links for elaborations. 
-
-Related Graduate Courses Include: 
+Please click on the links for elaborations.  
 
 * Building a Router 
 * Topics in Networked Systems  
