@@ -9,9 +9,13 @@ redirect_from:
 ---
 
 
+
+
 Welcome to my website! 
 
-I am currently pursuing a PhD at Yale, with a focus on the intersection of machine learning methods and next-generation networked systems. 
+Update: I joined AT&T as a Lead Inventive Scientist.
+
+I recently completed my PhD at Yale, with a focus on the intersection of machine learning methods and next-generation networked systems. 
 
 Recently, I have been working on distributed learning in communication networks, focusing on LLM training, fine-tuning, and personalization. The goals of these projects include enhancing privacy protection, improving energy efficiency, and optimizing model performance. I also work on optimization and machine learning for 5G and beyond cellular networks, and wireless SDN architecture. 
 
@@ -22,8 +26,3 @@ My experience spans different network paradigms including 5G and beyond cellular
 
 For further details on my efforts and accomplishments, please explore my website, Linkedin profile, or the resume.
 
-
-Recent Updates
-======
-
-I am planning on graduating this fall, so I am looking forward to (and actively searching for) the next chapter in my career! 
